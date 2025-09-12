@@ -3,3 +3,5 @@
 ## URLs
 - [cleverhack dot com](https://cleverhack.com/2025)
 - [cleverhack feed](https://cleverhack.com/feed.xml)
+- [cleverhack archive](https://cleverhack.com/archive)
+
