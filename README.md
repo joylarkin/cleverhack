@@ -1,7 +1,10 @@
 # cleverhack dot com
 
 ## URLs
-- [cleverhack dot com](https://cleverhack.com/2025)
-- [cleverhack feed](https://cleverhack.com/feed.xml)
-- [cleverhack archive](https://cleverhack.com/archive)
+- [https://cleverhack.com/2025](https://cleverhack.com/2025)
+- [https://cleverhack.com/feed.xml](https://cleverhack.com/feed.xml)
+- [https://cleverhack.com/archive](https://cleverhack.com/archive)
+
+
+  
 
