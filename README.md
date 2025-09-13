@@ -1,4 +1,4 @@
-# cleverhack dot com  [![RSS]([https://github.com/joylarkin/cleverhack/)](https://cleverhack.com/feed.xml)
+# cleverhack dot com  [![RSS](https://github.com/joylarkin/cleverhack/rss.png)](https://cleverhack.com/feed.xml)
 
 ## URLs
 - [https://cleverhack.com/2025](https://cleverhack.com/2025)
