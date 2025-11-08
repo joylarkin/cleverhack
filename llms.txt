@@ -18,7 +18,6 @@
 - [Global AI Regulations: A Comprehensive 2025 Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2025-roundup): A 2025 timeline of international government and US state-level legislative developments about AI.
 - [Awesome AI Market Maps repository](https://github.com/joylarkin/Awesome-AI-Market-Maps): A curated repository of 2025 AI Market Maps by top VCs, Analysts, and others.
 
-
 ## Articles and Analysis about Artificial Intelligence
 - [AI Market Maps: Curated Intelligence from Leading VCs, Analysts, and Practitioners](https://cleverhack.com/ai-market-maps-curated-intelligence-from-leading-vcs-analysts-practitioners): Curated 2025 AI market maps since finding current AI market maps once meant hunting through individual VC blogs, analyst publications, scattered Substack newsletters, and Medium posts 
 - [What Artificial Intelligence trends I'm keeping an eye on for H2 2025](https://cleverhack.com/artificial-intelligence-in-h2-2025): Keeping an eye on AI agents, AI lab productization, and AI hardware in H2 2025 
