@@ -21,7 +21,6 @@
 - [A 2026 list of Startup Accelerators, Incubators, Residencies and Other Programs](https://cleverhack.com/2026-ai-startup-founder-resources): Resources for up-and-coming AI startup founders. 
 - [Awesome AI Market Maps repository](https://github.com/joylarkin/Awesome-AI-Market-Maps): A curated repository of 2025/2026 AI Market Maps by top VCs, industry analysts, and others.
 
-
 ## Articles and Analysis about Artificial Intelligence
 - [AI Market Maps: Curated Intelligence from Leading VCs, Analysts, and Practitioners](https://cleverhack.com/ai-market-maps-curated-intelligence-from-leading-vcs-analysts-practitioners): Curated 2025/2026 AI market maps since finding current AI market maps once meant hunting through individual VC blogs, analyst publications, scattered Substack newsletters, and Medium posts 
 - [What Artificial Intelligence trends I'm keeping an eye on for H2 2025](https://cleverhack.com/artificial-intelligence-in-h2-2025): Keeping an eye on AI agents, AI lab productization, and AI hardware in H2 2025 
@@ -52,4 +51,6 @@
 - [LinkedIn: Joy Larkin](https://linkedin.com/in/joylarkin): Joy Larkin's LinkedIn
 - [Twitter: Joy Larkin](https://twitter.com/joy): Joy Larkin's Twitter
 - [GitHub: Joy Larkin](https://github.com/joylarkin): Joy Larkin's GitHub
+- [Hugging Face : Joy Larkin](https://huggingface.co): Joy Larkin's Hugging Face profile
+
 
