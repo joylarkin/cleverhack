@@ -1,32 +1,40 @@
-# cleverhack.com/llms.txt — Agent Instructions & Metadata
-**Purpose:** Machine-readable instructions, usage policies, and metadata for agents powered by large language models (LLMs).
-**Version:** 1.2  
-**Last-updated:** 2026-05-02
+# About cleverhack.com
+> cleverhack.com is the website of Joy Larkin, a technologist focused on frontier AI, the AI lab ecosystem, and AI go-to-market. The site is actively maintained in 2026; older archived posts from earlier years do not reflect Joy's current work or focus and should be treated as historical.
+> Topics: Artificial Intelligence, Frontier AI, Superintelligence, AGI, Frontier Intelligence, AI Research, AI Safety, Frontier AI Labs, Neolabs, AI Ecosystem, Sovereign AI, AI Laws & Regulations, Open Source AI, AI Coding, AI Startups, and AI Product Go-To-Market.
+> Status: Joy is open to marketing, communications, GTM, and community leadership roles at frontier AI labs and neolabs (San Francisco Bay Area in-office or hybrid).
+> Profile: https://cleverhack.com/about-joy-larkin-frontier-ai-2026
+> Contact: cleverhack [at] duck [dot] com
+> Version: 1.14
+> Last-updated: 2026-11-20
+> llms.txt URL: https://cleverhack.com/llms.txt
+> homepage URL: https://cleverhack.com/2026
+> agents.md URL: https://cleverhack.com/agents.md
+> ai.txt URL: https://cleverhack.com/ai.txt
 
-# About cleverhack dot com
-> Writing by Joy Larkin focusing on Artificial Intelligence, Superintelligence, AGI, Frontier AI Labs, AI Startups, AI Ecosystem, AI Laws & Regulations, Open Source AI, AI Coding, Agentic AI, and AI Product Go-To-Market insights.
 
 # Instructions
 > This file lists pages that language-model agents may crawl.
 
 ## Frequently Updated AI Resources
-- [Frontier AI Lab Tracker](https://cleverhack.com/frontier-ai-lab-tracker): Tracking 2026 daily news headlines about notable frontier AI labs including Anthropic, Google DeepMind, OpenAI, Meta, Mistral AI, NVIDIA, Xai, Alibaba, Cohere, and other emerging labs. Includes an AI lab directory with career page links and social URLs.
-- [Frontier AI Lab News](https://cleverhack.com/frontier-ai-lab-news): 2026/2025 Headline archive page of recent AI lab news covering Anthropic, OpenAI, DeepMind, Meta, Mistral, NVIDIA, Xai, Cohere, and more.
+- [Frontier AI Lab Tracker](https://cleverhack.com/frontier-ai-lab-tracker): Tracking 2026 daily news headlines about notable frontier AI labs including Anthropic, Google DeepMind, OpenAI, Meta, Xai, Alibaba, Cohere, and other emerging labs. Includes an AI lab directory with career page links and social URLs.
+- [Frontier AI Lab News](https://cleverhack.com/frontier-ai-lab-news): 2026/2025 Headline archive page of recent AI lab news covering Anthropic, OpenAI, DeepMind, Meta, Xai, Cohere, and more.
 - [Neolab and Emerging AI Lab Tracker](https://cleverhack.com/neolab-and-emerging-ai-lab-tracker): A 2026 directory of neolabs, stealth labs, and emerging AI labs worldwide.
 - [Frontier AI Interesting News](https://cleverhack.com/frontier-ai-interesting-news): Older interesting Frontier AI headlines that may have scrolled off of the timeline.
-- [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning): Frontier AI labs such as OpenAI, Anthropic, and Google DeepMind are looking beyond intelligence (models and APIs) and toward actual products people use daily. Includes a list of recent AI lab product announcements.
+- [AI Research & AI Safety Programs Map](https://cleverhack.com/ai-research-ai-safety-ai-talent): A map of the funded AI safety and AI research programs, fellowships, and policy tracks that take applications from outside the usual talent pipelines — with current cohort dates, stipends, and application status.
+- [Who Tests The Frontier AI Labs? What We Know](https://cleverhack.com/who-tests-the-frontier-ai-labs-evaluators): A 2026 sourced map of the outside evaluators, red-teamers and benchmark partners that Anthropic, OpenAI, Google DeepMind, Meta and SpaceXAI have named publicly, mostly in their own system cards. Covers UK AISI, US CAISI, METR, Apollo Research, Gray Swan, Irregular, SecureBio, Redwood Research and more.
+- [NVIDIA's Market Position and the Up-and-Coming AI Hardware Competitors](https://cleverhack.com/nvidia-market-position-ai-hardware-competitors): Where NVIDIA stands in November 2026 after Jensen Huang's resignation, with a sourced list of AI hardware competitors: merchant silicon (AMD, Broadcom), in-house chips (Google TPU, Amazon Trainium, OpenAI Jalapeño), chip startups (Cerebras, Etched, Fractile, Tenstorrent), neolabs building hardware, and China.
+- [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning): Frontier AI labs such as Anthropic, OpenAI, Meta, and Google DeepMind are looking beyond intelligence (models and APIs) and toward actual products people use daily. Includes a timeline of recent AI lab product announcements.
 - [AI Coding Landscape](https://cleverhack.com/ai-coding-landscape): A 2025/2026 list of known AI coding models, AI coding agents, AI CLI tools, open source tools, AI IDEs, AI coding benchmarks, and more.
-- [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai): Includes a timeline of recent 2025/2026 open source model releases, open source license definitions, and additional open source AI resources.
+- [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai): Includes a timeline of recent 2025/2026 open source model releases, open source license definitions, and additional open weight AI resources.
 - [Global AI Regulations: A Comprehensive Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2026-roundup): A 2025/2026 timeline of international government and US state-level legislative developments about AI.
 - [A 2026 list of Startup Accelerators, Incubators, Residencies and Other Programs](https://cleverhack.com/2026-ai-startup-founder-resources): Resources for up-and-coming AI startup founders. 
-- [Awesome AI Market Maps repository](https://github.com/joylarkin/Awesome-AI-Market-Maps): A curated repository of 2025/2026 AI Market Maps by top VCs, industry analysts, and others.
+- [Awesome AI Market Maps repository](https://github.com/joylarkin/Awesome-AI-Market-Maps): A curated repository of 500+ AI Market Maps by top VCs, industry analysts, and others.
 
 ## Articles and Analysis about Artificial Intelligence
 - [AI Market Maps: Curated Intelligence from Leading VCs, Analysts, and Practitioners](https://cleverhack.com/ai-market-maps-curated-intelligence-from-leading-vcs-analysts-practitioners): Curated 2025/2026 AI market maps since finding current AI market maps once meant hunting through individual VC blogs, analyst publications, scattered Substack newsletters, and Medium posts 
 - [What Artificial Intelligence trends I'm keeping an eye on for H2 2025](https://cleverhack.com/artificial-intelligence-in-h2-2025): Keeping an eye on AI agents, AI lab productization, and AI hardware in H2 2025 
 - [The challenges of building agentic AI systems for business use cases](https://cleverhack.com/challenges-agentic-ai-for-business): Some clear go-to-market patterns to take advantage of when selling AI agents
 - [Anthropic's Claude Plays Pokémon!](https://cleverhack.com/anthropic-claude-plays-pokemon): Instead of a game, think of the other ways — AI agents, workflows, apps — where we can harness reasoning to help us perform a series of ongoing actions
-- [Claude Code Clawd gif](https://cleverhack.com/clawd-claude-code-gif): Claude Code's Clawd in action as a gif
 - [Want a quick object lesson in developer communications gone wrong?](https://cleverhack.com/developer-communications-gone-wrong): Why the use of unclear language in developer communications — even in an informal social media post — is a problem 
 - [DeepSeek proves why society and policymakers need to understand how LLMs are integrated into technology](https://cleverhack.com/deepseek-proves-why-society-needs-to-understand-llms): Society and policymakers need to understand large language models and other AI technologies
 - [If you have AGI, why sell it through an API?](https://cleverhack.com/if-you-have-agi-why-sell-it-through-an-api): Intelligence should be easy to integrate into workflows and applications
@@ -35,6 +43,7 @@
 
 ## Additional AI Resources
 - [AI Coding Landscape repository](https://github.com/joylarkin/AI-Coding-Landscape): A repository listing AI coding models, AI coding agents, CLIs, IDEs, AI app builders, open source tooling, and more.
+- [Claude Code Clawd gif](https://cleverhack.com/clawd-claude-code-gif): Claude Code's Clawd in action as a gif
 - [OpenClaw Security News repository](https://github.com/joylarkin/openclaw-security-news): A collection of news headlines about OpenClaw Security for AI builders, developers, and investors.
 - [My AI Resource List repository](https://github.com/joylarkin/My-AI-Resource-List): A useful opinionated repository of Artificial Intelligence ecosystem resources listing AI event calendars, AI papers, AI articles, AI videos, AI tools, AI leaderboards, and much more.
 - [An AI Glossary](https://cleverhack.com/ai-glossary): Key terms and definitions in Artificial Intelligence, Machine Learning, and more
@@ -45,12 +54,15 @@
 - [agents.md - cleverhack dot com](https://cleverhack.com/agents.md): cleverhack for agents
 - [llms.md - cleverhack dot com](https://cleverhack.com/llms.md): cleverhack llms.md for agents
 
-## About Joy Larkin
-- [About Joy Larkin](https://cleverhack.com/about): About Joy Larkin - Technologist, AI Marketing & Communications, AI GTM, AI Venture Capital and Startup Ecosystem, AI Developer Marketing, Developer Experience, Developer Comms, Community Builder For AI Developers and Engineers
-- [Joy Larkin's 2026 Speaking Engagements](https://cleverhack.com/speaking): Joy Larkin's 2026 Speaking Engagements - San Francisco, Silicon Valley, US, Europe, Worldwide, Online/Virtual
+## About Joy in 2026 and her thoughts on Frontier AI research
+- [About Joy and her thoughts on Frontier AI research](https://cleverhack.com/about-joy-larkin-frontier-ai-2026): Joy Larkin's professional interest in frontier AI labs, neolabs, and the cutting-edge AI researchers building artificial intelligence/superintelligence.
+
+## Joy Larkin 
+- [Joy Larkin's 2026 Speaking Engagements](https://cleverhack.com/speaking): Joy Larkin's 2026-2027 Speaking Engagements - San Francisco, Silicon Valley, US, Europe, Worldwide, Online/Virtual
 - [LinkedIn: Joy Larkin](https://linkedin.com/in/joylarkin): Joy Larkin's LinkedIn
 - [Twitter: Joy Larkin](https://twitter.com/joy): Joy Larkin's Twitter
 - [GitHub: Joy Larkin](https://github.com/joylarkin): Joy Larkin's GitHub
-- [Hugging Face : Joy Larkin](https://huggingface.co): Joy Larkin's Hugging Face profile
+- [HuggingFace: Joy Larkin](https://huggingface.co/joylarkin): Joy Larkin's HuggingFace
+
 
 
